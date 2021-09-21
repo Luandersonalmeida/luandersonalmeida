@@ -1,4 +1,4 @@
-### Olá eu sou o Luanderson Almeida 😎
+### Olá eu sou o Luanderson Almeida 😁
 
 <!--
 **Luandersonalmeida/luandersonalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
